@@ -51,19 +51,21 @@ I'm continuously improving as an engineer by focusing on:
 
 ---
 
----
-
-## 📊 GitHub Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Har-shii21&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Har-shii21&hide_border=true&theme=transparent"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-shii21&theme=github-dark&hide_border=true"/>
 
 </div>
 
----
+## 🔥 Current Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Har-shii21&theme=github-dark-blue&hide_border=true"/>
+
+</div>
 
 ---
 
